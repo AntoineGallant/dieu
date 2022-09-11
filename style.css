@@ -24,9 +24,9 @@ body {
 h1 {
   margin: 0;
   font-size: 35px;
-  text-align: center;
+  text-align: justify;
   padding: 20px 0;    
-  color: darkred;
+  color: #800000;
   text-shadow: 3px 3px 1px black;
 }
 
