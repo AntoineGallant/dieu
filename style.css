@@ -1,16 +1,14 @@
 html {
   font-size: 15px;
   font-family: 'Syne Mono', monospace;
+  background-color: gainsboro;
 }
 
 p, li {
   font-size: 15px;    
   line-height: 2;
   letter-spacing: 2px;
-}
-
-html {
-  background-color: gainsboro;
+  text-align: justify;
 }
 
 body {
@@ -24,7 +22,7 @@ body {
 h1 {
   margin: 0;
   font-size: 35px;
-  text-align: justify;
+  text-align: center;
   padding: 20px 0;    
   color: maroon;
   text-shadow: 3px 3px 1px white;
